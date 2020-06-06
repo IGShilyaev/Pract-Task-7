@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pract Task 7/1.0.0": {
+        "runtime": {
+          "Pract Task 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pract Task 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
